@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Sankarshan Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/9078494-Developer/attachments/1172630?mode=media">
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/9078494-Developer/attachments/1172630?mode=media](https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssinha210&label=Profile%20views&color=0e75b6&style=flat" alt="ssinha210" /> </p>
 
