@@ -56,26 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <tr>
-      <img src="https://github-readme-stats.vercel.app/api?username=ssinha210&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <tr>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssinha210&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-    </td>
-   </tr>
-   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinha210&langs_count=8&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-   </tr>
-</table>
-
----
-
 ## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/sankarshan-sinha-25932a306/">
